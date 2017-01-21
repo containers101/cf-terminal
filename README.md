@@ -1,2 +1,2 @@
-# cf-terminal
-Web SSH terminal for access to container
+# Codefresh Terminal
+Provides easy access to Docker container insides.

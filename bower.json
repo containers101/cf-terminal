@@ -1,0 +1,8 @@
+{
+  "name": "cf-terminal",
+  "description": "Provides easy access to Docker container insides.",
+  "license": "MIT",
+  "dependencies": {
+    "xterm.js": "~2.2.3"
+  }
+}
