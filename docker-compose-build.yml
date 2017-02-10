@@ -1,0 +1,19 @@
+version: '2'
+services:
+  my-service:
+    image: 'containers101/whomi:master'
+    volumes:
+      - my-service:/app
+    ports:
+      - '1337'
+  terminal:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    ports:
+      - '8000'
+    volumes_from:
+      - my-service
+volumes:
+  my-service:
+    driver: local
