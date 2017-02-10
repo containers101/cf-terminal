@@ -6,6 +6,10 @@ services:
       - my-service:/app
     ports:
       - '1337'
+  new-terminal:
+    build:
+      context: ./
+      dockerfile: Dockerfile2
   terminal:
     build:
       context: ./
