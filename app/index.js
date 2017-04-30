@@ -5,6 +5,7 @@ let app = tty.createServer({
   users: {
     foo: 'bar'
   },
+  cwd: process.env.FOLDER || '.'
   port: 8000
 });
 
