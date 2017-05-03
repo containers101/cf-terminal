@@ -28,4 +28,5 @@ So all is done. Now we can get access to terminal and check what exactly is plac
   <img src="./images/step 3.gif">
 </p>
 
-It can ask username/password. Please use foo/bar.
+Username and password can be defined by environment variables: USERNAME/PASSWORD.
+If not defined, login to terminal using: user/pass.
