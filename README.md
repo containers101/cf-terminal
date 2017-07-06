@@ -30,3 +30,11 @@ So all is done. Now we can get access to terminal and check what exactly is plac
 
 Username and password can be defined by environment variables: USERNAME/PASSWORD.
 If not defined, login to terminal using: user/pass.
+
+## About Containers 101
+
+[Containers 101](https://www.meetup.com/Containers-101-meetup/) is online/offline meetup group based in Mountain View that provides guides and helps developers work with Containers. Created by [Codefresh](https://codefresh.io/) which provides environments for every commit, Docker CI and CD, and an embedded registry. 
+
+[Join Containers 101](https://www.meetup.com/Containers-101-meetup/)
+Learn more about [Codefresh](https://codefresh.io/)
+
