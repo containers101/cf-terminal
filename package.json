@@ -1,6 +1,6 @@
 {
   "name": "cf-terminal",
-  "description": "Provides easy access to Docker container insides!",
+  "description": "Provides easy access to Docker container insides.",
   "license": "MIT",
   "dependencies": {
     "tty.js": "^0.2.15"
